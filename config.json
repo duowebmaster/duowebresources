@@ -126,5 +126,39 @@
             "description": "https://raw.githubusercontent.com/duowebmaster/duowebresources/master/profile.txt",
             "url": "/story/article/#4"
         }
+    ],
+    "photography": [
+        {
+            "name": "ARCHITECTURE",
+            "url": "#architecture",
+            "projects": "https://raw.githubusercontent.com/duowebmaster/duowebresources/master/hongguozhuo.json"
+        },
+        {
+            "name": "URBAN",
+            "url": "#urban",
+            "projects": ""
+        },
+        {
+            "name": "LANDSCAPE",
+            "url": "#landscape",
+            "projects": ""
+        }
+    ],
+    "partner": [
+        {
+            "name": "HONGGUO ZHUO",
+            "url": "#hongguozhuo",
+            "projects": "https://raw.githubusercontent.com/duowebmaster/duowebresources/master/hongguozhuo.json"
+        },
+        {
+            "name": "GUAN YUAN",
+            "url": "#guanyuan",
+            "projects": ""
+        },
+        {
+            "name": "SIMING WU",
+            "url": "#simingwu",
+            "projects": ""
+        }
     ]
 }
